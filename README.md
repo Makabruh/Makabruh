@@ -1,7 +1,7 @@
 Emily Roach
 
-Hi,
-I'm beginning to gather some experience with Java and web development and I'm always looking to improve.
-I have some personal projects in the works but nothing finished yet.
+Hiya,
+I'm a software development apprentice based in Manchester.
+I have used Java, Python, MySQL, and JavaScript before but am always looking to learn more.
 
 Thanks for visiting
