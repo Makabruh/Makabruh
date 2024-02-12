@@ -6,4 +6,4 @@ I have used Java, Python, MySQL, and JavaScript before but am always looking to 
 
 Thanks for visiting
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=makabruh)](https://github.com/makabruh/github-readme-stats)
